@@ -12,9 +12,6 @@ tags: ["astro", "blogging", "learning in public"]
 <a href="/">Home</a>
 <a href="/about/">About</a>
 <a href="/blog/">Blog</a>
-# My First Blog Post
-
-Published on: 2024-12-25
 
 Welcome to my _new blog_ about learning Astro! Here, I will share my learning journey as I build a new website.
 
