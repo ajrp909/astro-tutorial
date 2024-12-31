@@ -9,8 +9,4 @@ image:
 pubDate: 2024-12-25
 tags: ["astro", "blogging", "learning in public", "successes"]
 ---
-<a href="/">Home</a>
-<a href="/about/">About</a>
-<a href="/blog/">Blog</a>
-
 After a successful first week learning Astro, I decided to try some more. I wrote and imported a small component from memory!
