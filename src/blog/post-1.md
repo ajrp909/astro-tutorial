@@ -3,6 +3,9 @@ title: 'My (genuine) First Blog Post'
 pubDate: 2024-01-13
 description: 'This is the (actual) first post of my new Astro blog.'
 author: 'Me'
+image:
+    url: 'https://docs.astro.build/assets/rose.webp'
+    alt: 'The Astro logo on a dark background with a pink glow.'
 tags: ["personal", "blogging", "learning in public"]
 ---
 ## First Post
