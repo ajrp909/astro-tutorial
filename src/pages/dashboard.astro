@@ -1,0 +1,33 @@
+---
+import '../styles/global.css';
+import BaseLayout from "../layouts/BaseLayout.astro";
+---
+<BaseLayout>
+  <style>
+    .iframe-container {
+      position: relative;
+      width: 100%;
+      height: 100%;
+      padding-top: 56.25%;
+      overflow: hidden;
+    }
+    .responsive-iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      border: none;
+    }
+  </style>
+  <div>
+    <h2>Study Tracker live dashboard</h2>
+    <div class="iframe-container">
+      <iframe
+        class="responsive-iframe"
+        src="https://personal-study-tracker-dash-c07f5e63ba12.herokuapp.com"
+        title="Dash Application"
+      ></iframe>
+    </div>
+  </div>
+</BaseLayout>
