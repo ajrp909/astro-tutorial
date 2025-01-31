@@ -1,8 +1,11 @@
 ---
 import '../styles/global.css';
 import BaseLayout from "../layouts/BaseLayout.astro";
+
+const pageTitle = "Dashboard"
+const dashSrc = "https://personal-study-tracker-dash-c07f5e63ba12.herokuapp.com"
 ---
-<BaseLayout>
+<BaseLayout pageTitle={pageTitle}>
   <style>
     .iframe-container {
       position: relative;
@@ -20,14 +23,11 @@ import BaseLayout from "../layouts/BaseLayout.astro";
       border: none;
     }
   </style>
-  <div>
-    <h2>Study Tracker live dashboard</h2>
     <div class="iframe-container">
       <iframe
         class="responsive-iframe"
-        src="https://personal-study-tracker-dash-c07f5e63ba12.herokuapp.com"
+        src={dashSrc}
         title="Dash Application"
       ></iframe>
-    </div>
   </div>
 </BaseLayout>
