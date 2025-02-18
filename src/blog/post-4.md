@@ -1,12 +1,12 @@
 ---
-title: My Fourth Blog Post
-author: Astro Learner
-description: "This post will show up on its own!"
+title: TMA woes but hopeful to start new career soon
+author: Me
+description: "expecting bad score in most important assignment, but positives elsewhere"
 image:
     url: "https://docs.astro.build/default-og-image.png"
     alt: "The word astro against an illustration of planets and stars."
-pubDate: 2022-08-08
-tags: ["astro", "successes"]
+pubDate: 2025-02-17
+tags: ["physics", "tma", "interview", "blogging", "failures"]
 ---
 ## Very busy and progressing
 
