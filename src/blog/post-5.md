@@ -2,6 +2,9 @@
 title: So close but yet so far
 author: Me
 description: "Nearly got the job, last TMA wasn't a total disaster"
+image:
+    url: "https://docs.astro.build/default-og-image.png"
+    alt: "The word astro against an illustration of planets and stars."
 pubDate: 2025-02-27
 tags: ["physics", "tma", "interview", "blogging", "failures", "successes", "future"]
 ---
