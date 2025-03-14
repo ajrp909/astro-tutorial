@@ -6,7 +6,7 @@ image:
     url: "https://docs.astro.build/default-og-image.png"
     alt: "The word astro against an illustration of planets and stars."
 pubDate: 2025-03-14
-tags: ["blogging", "website", "email", "future"]
+tags: ["blogging", "website", "email", "future", "gym", "running"]
 ---
 ## Developing the public facing professional side
 
